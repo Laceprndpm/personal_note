@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2633836d10bfd15",
+        "id": "b95cc6eff072dda3",
         "type": "tabs",
         "children": [
           {
-            "id": "2fd848d8f93a1de4",
+            "id": "2926bab1617786e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "project/hdu/hdu2/P07.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "P07"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tag/math",
+                "query": "2060F",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cf/2000+/1966E.md",
+                "file": "project/hdu/hdu2/P09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1966E"
+              "title": "Backlinks for P09"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/cf/2000+/2063E.md",
+                "file": "daily/2025-07-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2063E"
+              "title": "Outgoing links from 2025-07-23"
             }
           },
           {
@@ -125,7 +129,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "project/hdu/hdu2/P09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of P09"
             }
           }
         ],
@@ -163,44 +168,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e4d8029f07916f7",
+  "active": "2926bab1617786e0",
   "lastOpenFiles": [
-    "guide.md",
-    "create a link.md",
-    "task.md",
-    "project/cf/1492D.md",
-    "top.md",
-    "Untitled.md",
+    "project/nk/2025_summer_3/B.md",
+    "project/nk/2025_summer_2/G.md",
+    "project/nk/2025_summer_3/E.md",
+    "project/nk/2025_summer_3/H.md",
+    "daily/2025-07-23.md",
+    "daily/2025-07-18.md",
+    "daily/2025-07-19.md",
+    "daily/2025-07-20.md",
+    "daily/2025-07-22.md",
+    "project/luogu/P1967.md",
+    "project/hdu/hdu2/P07.md",
     "project/cf/2060F.md",
-    "project/abc/abc388_f.md",
-    "project/abc",
-    "project/Untitled.md",
-    "project/cf/2102E.md",
-    "project/cf/2030E.md",
-    "project/cf/2028E.md",
-    "project/atcoderdp/dp_z.md",
-    "Untitled.canvas",
-    "project/atcoderdp/dp_y.md",
-    "project/cf/2063E.md",
-    "project/cf/1966E.md",
-    "project/atcoderdp/dp_x.md",
-    "project/atcoderdp/dp_w.md",
-    "2025-06-09.md",
-    "template/new.md",
-    "2025-06-30.md",
-    "project/cf/2112E.md",
+    "project/hdu/hdu2/P09.md",
+    "project/hdu/hdu2/P12.md",
+    "task.md",
+    "project/nk/2025_summer_2/H.md",
+    "project/cf/2125E.md",
     "project/cf/1954E.md",
-    "project/cf/2121H.md",
-    "project/cf/2123G.md",
-    "project/cf/2119D.md",
-    "project/luogu",
-    "project/cf/Untitled",
-    "project/cf/1988E",
-    "project/atcoderdp",
-    "project",
-    "template",
-    "project/cf/2000+",
-    "project/cf",
-    "CF"
+    "project/cf/1993D.md",
+    "project/cf/2013E.md",
+    "project/cf/2122C.md",
+    "project/cf/1983E.md",
+    "project/cf/1942E.md",
+    "project/hdu/hdu1/P01.md",
+    "project/cf/2090E2.md",
+    "project/cf/2112E.md",
+    "project/hdu/hdu2",
+    "project/hdu/hdu1",
+    "project/nk/2025_summer_3",
+    "project/nk/2025_summer_2",
+    "project/hdu",
+    "template/static",
+    "template/dynamic",
+    "daily",
+    "data/H_HomamaOVO.cpp",
+    "H_HomamaOVO.cpp",
+    "Untitled.canvas"
   ]
 }

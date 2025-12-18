@@ -4,7 +4,7 @@ date: 2025-07-09
 last_clear: 2025-07-09
 tags:
   - tag/dp
-  - tag/greedy
+  - tag/贪心
 grasp: 1
 difficulty: 
 source: https://atcoder.jp/contests/dp/tasks/dp_x

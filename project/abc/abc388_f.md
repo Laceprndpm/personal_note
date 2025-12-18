@@ -9,4 +9,5 @@ difficulty: 1900
 source: https://atcoder.jp/contests/abc388/tasks/abc388_f
 article:
 ---
+矩阵快速幂加速dp
 dp的时候一定要想清楚状态，从哪转移，否则很容易出错

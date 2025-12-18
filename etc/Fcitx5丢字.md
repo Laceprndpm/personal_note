@@ -1,0 +1,1 @@
+使用 `Chrome / Electron` 软件时，如遇输入法漏编码问题，请制定GTK模块，而非XIM。在 `~/.config/gtk-3.0/settings.ini` 中加上 `gtk-im-module=fctix` 即可。如果使用的是GNOME可能需要额外的操作。
